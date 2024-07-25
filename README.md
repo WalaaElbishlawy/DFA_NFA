@@ -1,8 +1,8 @@
-TOC-DFA-NFA Assignment
-Overview
+# DFA-NFA 
+# Overview
 This repository contains solutions for the assignment related to Deterministic Finite Automata (DFA) and Non-deterministic Finite Automata (NFA). The assignment involves solving 10 problems using Java and includes tasks such as drawing automata, simulating DFA, and processing input and output files.
 
-Requirements
+# Requirements
 Solve all 10 problems using Java.
 The Java program should read from one input text file and produce one output text file.
 Submit drawings of all DFAs and NFAs in a separate PDF file.
